@@ -1,4 +1,4 @@
-package corejava.ch05;
+package corejava.ch05.inheritance;
 
 public class ManagerTest {
 	public static void main(String [] args) {

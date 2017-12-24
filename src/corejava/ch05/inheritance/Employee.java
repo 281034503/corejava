@@ -1,4 +1,4 @@
-package corejava.ch05;
+package corejava.ch05.inheritance;
 
 import java.time.LocalDate;
 
