@@ -1,4 +1,4 @@
-package corejava.ch05;
+package corejava.ch05.abstractClasses;
 
 import java.time.LocalDate;
 

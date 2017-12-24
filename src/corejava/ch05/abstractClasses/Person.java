@@ -1,4 +1,4 @@
-package corejava.ch05;
+package corejava.ch05.abstractClasses;
 
 public abstract class Person {
 	public abstract String getDescription();
