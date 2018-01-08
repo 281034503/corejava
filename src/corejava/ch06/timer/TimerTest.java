@@ -11,7 +11,10 @@ import javax.swing.Timer;
 public class TimerTest {
 	public static void main(String[] args) {
 		ActionListener listener = new TimePrinter();
-		Timer t = new Timer(1000, listener);
+		
+		//构造一个调用侦听器的计时器
+		//每10秒一次
+		Timer t = new Timer(10000, listener);
 		t.start();
 
 		JOptionPane.showMessageDialog(null, "Quit program?");
