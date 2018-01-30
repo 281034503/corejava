@@ -41,7 +41,6 @@ class ExceptTestPanel extends Box {
 		group = new ButtonGroup();
 
 		// 为代码片段添加单选按钮
-
 		addRadioButton("Integer divide vy zero", new ActionListener() {
 			public void actionPerformed(ActionEvent event) {
 				a[1] = 1 / (a.length - a.length);
