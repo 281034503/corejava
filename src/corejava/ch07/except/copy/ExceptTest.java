@@ -1,4 +1,4 @@
-package corejava.ch7.except;
+package corejava.ch07.except.copy;
 
 import java.awt.EventQueue;
 import java.awt.event.*;
