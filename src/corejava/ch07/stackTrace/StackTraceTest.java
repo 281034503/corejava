@@ -1,7 +1,7 @@
 package corejava.ch07.stackTrace;
 
 import java.util.Scanner;
-
+  
 public class StackTraceTest {
 
 	public static int factorial(int n) {
