@@ -1,4 +1,4 @@
-package corejava.ch07.exceptional.copy;
+package corejava.ch07.exceptional;
 
 import java.util.Date;
 import java.util.EmptyStackException;

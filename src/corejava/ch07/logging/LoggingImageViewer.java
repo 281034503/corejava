@@ -1,4 +1,4 @@
-package corejava.ch07.logging.copy;
+package corejava.ch07.logging;
 
 public class LoggingImageViewer {
 

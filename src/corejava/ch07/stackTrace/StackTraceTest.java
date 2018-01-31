@@ -1,4 +1,4 @@
-package corejava.ch07.stackTrace.copy;
+package corejava.ch07.stackTrace;
 
 import java.util.Scanner;
 
